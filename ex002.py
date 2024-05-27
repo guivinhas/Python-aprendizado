@@ -1,3 +1,5 @@
+#variáveis
+
 nome = 'Guilherme Vinhas'
 idade = 22
 altura = 1.82

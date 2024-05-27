@@ -1,3 +1,5 @@
+#variaveis, função print, e data types
+
 nome = 'Guilherme'
 sobrenome = 'Vinhas'
 idade = 22
