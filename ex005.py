@@ -2,7 +2,7 @@
 
 nome = input('Digite seu nome: ')
 idade = input('Digite sua idade: ')
-qtdletras = len(nome)- (' ' in nome)
+qtdletras = len(nome)-(' ' in nome)
 
 if nome !='' and idade !='':
     print(f'Seu nome é {nome}')
